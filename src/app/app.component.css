@@ -17,7 +17,7 @@
 }
 
 .resource-list a {
-  color: black;
+  color: var(--foreground);
   line-height: 30px;
 }
 
